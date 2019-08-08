@@ -1,9 +1,17 @@
-SampleClass1.SampleMethod3
-SampleClass2.SampleMethod1
-	SampleClass2.SampleMethod1
-SampleClass1.SampleMethod1
-SampleClass1.SampleMethod4
-SampleClass2.SampleMethod2
+SampleClass2.SampleMethod1
+SampleClass2.SampleMethod1
+	SampleClass2.SampleMethod1
+SampleClass2.SampleMethod1
+SampleClass2.SampleMethod2
+SampleClass2.SampleMethod2
 	
 SampleClass2.SampleMethod2
-SampleClass1.SampleMethod2
+SampleClass2.SampleMethod2
+SampleClass1.SampleMethod3
+SampleClass2.SampleMethod1
+SampleClass2.SampleMethod1
+SampleClass1.SampleMethod1
+SampleClass1.SampleMethod4
+SampleClass2.SampleMethod2
+SampleClass2.SampleMethod2
+SampleClass1.SampleMethod2

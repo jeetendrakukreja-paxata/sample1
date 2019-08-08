@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="package2.TestClass6" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-08T22:35:17" hostname="Jeetendras-MacBook-Pro.local" time="22.006">
+  <properties/>
+  <testcase name="TestMehod1" classname="package2.TestClass6" time="12.005"/>
+  <testcase name="TestMehod2" classname="package2.TestClass6" time="10.001"/>
+  <system-out><![CDATA[SampleClass2.SampleMethod1
+SampleClass2.SampleMethod2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
