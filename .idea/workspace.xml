@@ -23,16 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8f07797-e514-4698-85a1-5181046d7c00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/module1/src/main/java/SampleClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/main/java/sample/SampleClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/main/java/SampleClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/main/java/sample/SampleClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass5.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass6.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass7.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass8.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package1/TestClass9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package2/TestClass18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/test/java/package3/TestClass24.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -71,116 +77,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestClass1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass15.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass15.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="SampleClass2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/main/java/sample/SampleClass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass16.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass16.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass17.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass17.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass18.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="SampleClass1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/main/java/sample/SampleClass1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass19.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass19.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass20.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass20.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass21.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass21.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass22.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass22.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="TestClass23.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass23.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TestClass8.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass8.java">
+      <file leaf-file-name="TestClass24.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="225">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -659,6 +605,22 @@
         <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass6.java" />
         <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass7.java" />
         <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass8.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package1/TestClass9.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package1/TestClass10.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package1/TestClass11.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package1/TestClass12.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package1/TestClass13.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass14.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass15.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass16.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass17.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package2/TestClass18.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass19.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass20.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass21.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass22.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass23.java" />
+        <option value="$PROJECT_DIR$/module1/src/test/java/package3/TestClass24.java" />
       </list>
     </option>
   </component>
@@ -1080,6 +1042,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="package3" />
+      <recent name="package2" />
+      <recent name="package1" />
       <recent name="" />
     </key>
   </component>
@@ -1174,12 +1139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565296733591</updated>
-      <workItem from="1565296737614" duration="4687000" />
+      <workItem from="1565296737614" duration="4944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4687000" />
+    <option name="totallyTimeSpent" value="4944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1192,6 +1157,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="764" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="sbt" />
@@ -1213,8 +1179,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32395834" />
       <window_info anchor="bottom" x="-971" y="-1057" width="1920" height="1057" id="Run" order="4" weight="0.45688802" />
-      <window_info active="true" anchor="bottom" x="949" y="-1057" width="1920" height="1057" id="Terminal" order="10" visible="true" weight="0.359375" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49483013" visible="true" weight="0.16932908" />
+      <window_info anchor="bottom" x="949" y="-1057" width="1920" height="1057" id="Terminal" order="10" visible="true" weight="0.359375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49483013" visible="true" weight="0.16932908" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.328125" />
       <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.17838125" />
@@ -1343,6 +1309,58 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass9.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass10.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass11.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass12.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package1/TestClass13.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass14.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass15.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass16.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass17.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package2/TestClass18.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass19.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass20.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass21.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass22.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass23.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/test/java/package3/TestClass24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
