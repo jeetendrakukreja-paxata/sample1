@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestClass2" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-08T21:19:01" hostname="Jeetendras-MacBook-Pro.local" time="12.511">
+<testsuite name="TestClass2" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-08T22:17:49" hostname="Jeetendras-MacBook-Pro.local" time="12.509">
   <properties/>
-  <testcase name="TestMehod1" classname="TestClass2" time="5.006"/>
-  <testcase name="TestMehod2" classname="TestClass2" time="7.505"/>
+  <testcase name="TestMehod1" classname="TestClass2" time="5.005"/>
+  <testcase name="TestMehod2" classname="TestClass2" time="7.504"/>
   <system-out><![CDATA[SampleClass1.SampleMethod3
 SampleClass1.SampleMethod4
 ]]></system-out>

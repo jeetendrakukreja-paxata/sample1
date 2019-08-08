@@ -22,22 +22,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8f07797-e514-4698-85a1-5181046d7c00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/main/java/SampleClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/main/java/SampleClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/main/java/SampleClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/main/java/SampleClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/TestClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/TestClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/TestClass3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/src/test/java/TestClass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/test/java/TestClass4.java" afterDir="false" />
-    </list>
+    <list default="true" id="d8f07797-e514-4698-85a1-5181046d7c00" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -468,9 +453,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7826486219000" />
+        <entry key="$PROJECT_DIR$" value="7826486234000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="44724573" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2354635912" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/module1/build.gradle" value="938792209" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4194121968" />
@@ -614,10 +599,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="994" />
-    <option name="y" value="-864" />
-    <option name="width" value="1746" />
-    <option name="height" value="915" />
+    <option name="x" value="764" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1083,16 +1068,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565296733591</updated>
-      <workItem from="1565296737614" duration="2378000" />
+      <workItem from="1565296737614" duration="3058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2378000" />
+    <option name="totallyTimeSpent" value="3058000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="764" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1104" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="sbt" />
@@ -1108,15 +1092,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.39940536" />
-      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32916668" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32395834" />
       <window_info anchor="bottom" x="-971" y="-1057" width="1920" height="1057" id="Run" order="4" weight="0.45688802" />
-      <window_info anchor="bottom" x="949" y="-1057" width="1920" height="1057" id="Terminal" order="10" visible="true" weight="0.34270832" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49483013" visible="true" weight="0.16932908" />
+      <window_info active="true" anchor="bottom" x="949" y="-1057" width="1920" height="1057" id="Terminal" order="10" visible="true" weight="0.34260178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49483013" visible="true" weight="0.16932908" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32903865" />
       <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.17838125" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="5" sideWeight="0.50516987" side_tool="true" weight="0.16453674" />
@@ -1130,7 +1115,6 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.32903865" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1212,7 +1196,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1273,7 +1257,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
