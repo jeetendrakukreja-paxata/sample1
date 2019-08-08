@@ -13,6 +13,8 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
-test {
-    maxParallelForks = 8
+subprojects {
+    tasks.withType(Test) {
+        maxParallelForks = Runtime.runtime.availableProcessors().intdiv(2) ?: 1
+    }
 }
