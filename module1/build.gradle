@@ -12,3 +12,12 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
+
+task testCat(type: Test) {
+    useJUnit {
+        includeCategories 'categories.Cats$Cat1'
+        includeCategories 'categories.Cats$Cat2'
+        includeCategories 'categories.Cats$Cat3'
+        excludeCategories 'categories.Cats$Cat5'
+    }
+}
