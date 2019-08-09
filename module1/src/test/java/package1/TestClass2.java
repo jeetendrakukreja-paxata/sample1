@@ -10,6 +10,7 @@ public class TestClass2 {
     @Category(Cats.Cat1.class)
     public void TestMehod1() throws Exception {
         new SampleClass1().SampleMethod3();
+        assert false;
     }
 
     @Test

@@ -16,5 +16,6 @@ public class TestClass9 {
     @Category(Cats.Cat3.class)
     public void TestMehod2() throws Exception {
         new SampleClass2().SampleMethod2();
+        assert false;
     }
 }
